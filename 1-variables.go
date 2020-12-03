@@ -11,7 +11,8 @@ var (
 var mk int =90
 func main() {
 	// Declare Variable
-	var v float32; // static 
+	var v float32; // static
+	var sul;
 	
 	// Initialize
 	v = 10; // or (var v int = 10)
